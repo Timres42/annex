@@ -977,19 +977,6 @@
          "tilecount":6,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":2706,
-         "image":"tileset\/gamenight.png",
-         "imageheight":256,
-         "imagewidth":512,
-         "margin":0,
-         "name":"Gamenight",
-         "spacing":0,
-         "tilecount":128,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
