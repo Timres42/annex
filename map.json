@@ -990,6 +990,19 @@
          "tilecount":128,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":15,
+         "firstgid":2834,
+         "image":"tileset\/celianna_orchestra_tiles.png",
+         "imageheight":448,
+         "imagewidth":496,
+         "margin":0,
+         "name":"Band",
+         "spacing":0,
+         "tilecount":210,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
