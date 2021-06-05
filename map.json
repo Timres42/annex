@@ -964,6 +964,19 @@
          "tilecount":2,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":1,
+         "firstgid":2700,
+         "image":"tileset\/Tafel.png",
+         "imageheight":64,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Tafel",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
