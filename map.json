@@ -231,6 +231,12 @@
          "id":39,
          "name":"JitsiPicknick4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":140,
@@ -243,6 +249,12 @@
          "id":40,
          "name":"JitsiPicknick5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":""
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":140,
@@ -917,6 +929,15 @@
                 }, 
                 {
                  "id":96,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":97,
                  "properties":[
                         {
                          "name":"collides",
@@ -1912,6 +1933,15 @@
                          "name":"collides",
                          "type":"bool",
                          "value":false
+                        }]
+                }, 
+                {
+                 "id":865,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -7168,6 +7198,24 @@
          "tiles":[
                 {
                  "id":285,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":724,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":725,
                  "properties":[
                         {
                          "name":"collides",
